@@ -166,7 +166,8 @@ A system developed to improve accommodation booking and management workflows.
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=Kavindu624&theme=tokyonight&hide_border=true" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=Kavindu624&theme=tokyonight&hide_border=true" 
+alt="Kavindu's GitHub Streak/>
 
 </div>
 
