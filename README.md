@@ -160,13 +160,13 @@ A system developed to improve accommodation booking and management workflows.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kavindu624&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu624&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=Kavindu624&theme=tokyonight&hide_border=true" />
 
 </div>
 
