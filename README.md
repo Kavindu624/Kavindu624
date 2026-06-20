@@ -133,16 +133,15 @@ Through my academic journey, I have gained experience in software projects, Agil
 ## 📚 Academic Projects
 
 
-### 🍽️ Restaurant Order Management System
+### ☕ Cafe Sienna Website Development
 
-A software project developed using Agile concepts to improve restaurant ordering and management processes.
+A group project focused on designing and developing a responsive website for a café using HTML, CSS, and JavaScript.
 
 **Focus Areas:**
-- Requirement Analysis
-- System Design
+- Front-End Web Development
+- User Interface Design
 - Team Collaboration
-- Software Development Process
-
+- Project Planning & Documentation
 
 ### 🏠 ShortStay Accommodation Management System
 
